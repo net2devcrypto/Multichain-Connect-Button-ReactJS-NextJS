@@ -13,7 +13,7 @@ Features:
 ** USE IT AT YOUR OWN RISK** **I'M NOT RESPONSIBLE FOR ANY USE, ISSUES ETC.. **
 
 <h3>Subscribe to my Youtube for more amazing tutorials!</h3>
-<a href="https://youtube.a3b.io" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a> 
+<a href="http://youtube.a3b.io" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a> 
 
 ## How to use
 
